@@ -1,0 +1,15 @@
+Weather Data Analysis Summary
+
+Temperature:
+- Mean temperature: 21.62°C
+- Highest temperature: 32.10°C
+- Lowest temperature: 10.00°C
+- Standard deviation: 7.32
+
+Rainfall:
+- Monthly rainfall total saved to: monthly_rainfall.png
+
+Humidity:
+- Scatter plot saved to: humidity_vs_temperature.png
+
+Seasonal Averages saved to cleaned CSV: cleaned_weather_data.csv
